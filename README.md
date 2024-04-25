@@ -2,7 +2,7 @@
 
 I am a South Sudanese Canadian, who is currently on tour in Africa. My educational background is in Chemical Engineering, both Bachelor's and PhD. Bachelor's degree was completed at the University of Toronto and Ph.D. at the University of Ottawa. 
 
-Ph.D. work studied the impact of gas-liquid distribution system on bubble column hydrodynamics. Bubble columns are encountered in energy, biochemical and metallurgical processes where intimate contact between a gas and a liquid is desired, for instance, when reactions are mass transfer limited. Internals such as gas-liquid distributors provide additional means for enhancing the contact between phases. 
+Ph.D. work studied the impact of gas-liquid distribution system on bubble column hydrodynamics. Bubble columns are encountered in energy, biochemical and metallurgical processes where intimate contact between a gas and a liquid is desired, for instance, when reactions are mass transfer limited. Internals such as gas-liquid distributors provide additional means for enhancing the contact between the phases. 
 
 Current research interests include experimental and computational modeling of transport phenomena in multiphase flows and reactors. Although multiphase reactors are easy to construct, the study of multiphase transport phenomena is complicated by numerous flow regimes and multiscale (spatio-temporally) nature of the problem. I am also interested in artificial intelligence and its applications in reduced order modeling and design optimization. 
 
