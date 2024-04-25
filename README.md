@@ -1,6 +1,6 @@
 <h1>Jacob Mach</h1>
 
-I am a South Sudanese Canadian, who is currently on tour in Africa. My educational background is in Chemical Engineering, both Bachelor's and PhD.Bachelor's degree was completed at the University of Toronto and Ph.D. at the University of Ottawa. 
+I am a South Sudanese Canadian, who is currently on tour in Africa. My educational background is in Chemical Engineering, both Bachelor's and PhD. Bachelor's degree was completed at the University of Toronto and Ph.D. at the University of Ottawa. 
 
 Ph.D. work studied the impact of gas-liquid distribution system on bubble column hydrodynamics. Bubble columns are encountered in energy, biochemical and metallurgical processes where intimate contact between a gas and a liquid is desired, for instance, when reactions are mass transfer limited. Internals such as gas-liquid distributors provide additional means for enhancing the contact between phases. 
 
