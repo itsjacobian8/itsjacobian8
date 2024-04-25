@@ -16,7 +16,7 @@ As mentioned, my Ph.D. work combined experiments, theory and computational model
     Jacob Mach, Adam A. Donaldson, Jan Haelssig, Jason Wiens, John Adjaye and Arturo Macchi. Fluid Dynamics Modeling of a Commercial Ebullated Bed Hydroprocessor. Industrial & Engineering Chemistry Research, 59(42): 19030-19044, 2020.<a href="https://www.doi.org/10.1021/acs.iecr.0c03454">doi:10.1021/acs.iecr.0c03454</a>
  </li>
  <li>
-    Jacob Mach, Jason Wiens, John Adjaye and Arturo Macchi. Fluid Dynamics Scaling a Gas-Liquid Distributor Applied to a Commercial Ebullated Bed Hydroprocessor. Industrial & Engineering Chemistry Research, 59(44): 19712-19725, 2020.<a href="https://www.doi.org/10.1021/acs.iecr.0c03224">doi:10.1021/acs.iecr.0c03224</a>
+    Jacob Mach, Jason Wiens, John Adjaye and Arturo Macchi. Fluid Dynamics Scaling of a Gas-Liquid Distributor Applied to a Commercial Ebullated Bed Hydroprocessor. Industrial & Engineering Chemistry Research, 59(44): 19712-19725, 2020.<a href="https://www.doi.org/10.1021/acs.iecr.0c03224">doi:10.1021/acs.iecr.0c03224</a>
  </li>
  <li>
     Jacob Mach, Jason Wiens, John Adjaye, Adam A. Donaldson and Arturo Macchi. Effect of pressure on the drag coefficient of individual bubbles in a contaminated polydisperse swarm. Chemical Engineering Science, 223: 115728, 2020.<a href="https://www.doi.org/10.1016/j.ces.2020.115728">doi:10.1016/j.ces.2020.115728</a>
