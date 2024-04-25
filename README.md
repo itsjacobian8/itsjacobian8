@@ -1,6 +1,4 @@
-Hello,
-
-Welcome to my Github page!
+<h1>Jacob Mach</h1>
 
 My name is Jacob Mach, a South Sudanese Canadian, who is currently on tour around Africa.
 
