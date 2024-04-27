@@ -1,8 +1,14 @@
-Hi,
+<h3>About Me</h3>
 
-I am Jacob Mach, a South Sudanese Canadian, who is currently on tour in Africa, exploring his roots. My educational background is in Chemical Engineering, both Bachelor's and PhD. I attended University of Toronto for undergraduate studies and University of Ottawa for graduate studies. PhD thesis was on the impact of fluids distribution system on bubble column hydrodynamics. Bubble columns are encountered in energy, biochemical and metallurgical processes where intimate contact between a gas and a liquid is desired, for instance, when reactions are mass transfer limited. Internals such as gas-liquid distributors provide additional means for enhancing the contact between the phases. 
+I am Canadian who is originally from South Sudan. I went to Canada via Kenya through the Student Refugee Program of World University Service of Canada (WUSC). I am currently in Africa trying to reconnect with "lost" family members. It's possible I may be the "lost" family and they are the ones trying to reconnect with me. The truth is out there...
 
-Current research interests include experimental and computational modeling of transport phenomena in multiphase flows and reactors. Although multiphase reactors are relatively easy to construct, modeling of multiphase transport phenomena is complicated by numerous multiphase flow regimes and spatio-temporally multiscale nature of multiphase flows due to their polydisperse and turbulent nature. The ultimate goal is the development of experimental and computational tools for comprehensive understanding and design of efficient multiphase reactors. I am also interested in artificial intelligence and its applications in reduced order modeling and design optimization. 
+My educational background is in Chemical Engineering, both Bachelor's and PhD. Bachelor's degree was completed at the University of Toronto and PhD at the University of Ottawa.
+
+My PhD thesis was on the <em>Impact of Fluids Distribution System on Bubble Column Hydrodynamics.</em> Bubble columns are encountered in energy, biochemical and metallurgical processes where intimate contact between a gas and a liquid is desired. Internals such as gas-liquid distributors provide additional means for enhancing the contact betweeen the phases.
+
+<h3>Research Interests</h3>
+
+Current research interests include experimental and computational modeling of transport phenomena in multiphase flows and reactors. Although multiphase reactors are relatively easy to construct, modeling of multiphase transport phenomena is complicated by numerous multiphase flow regimes and spatio-temporally multiscale nature of the flows due to their polydisperse and turbulent nature. The ultimate goal is the development of experimental and computational tools for comprehensive understanding and design of efficient multiphase reactors. I am also interested in artificial intelligence and its applications in reduced order modeling and design optimization. 
 
 <h3>Past Work</h3>
 
