@@ -30,6 +30,10 @@ As mentioned, my Ph.D. work combined experiments, theory and computational model
  </li>
 </ol>
 
+<h3>Hobbies</h3>
+
+When free, I like to hike, play games and learn new human languages.
+
 <h3>Contact Info</h3>
 
 I can be reached via e-mail at jacobmach16@gmail.com.
