@@ -1,6 +1,6 @@
 <h3>About Me</h3>
 
-I am Canadian of South Sudanese descent. I went to Canada from Kenya through the Student Refugee Program of World University Service of Canada (WUSC). I am currently in Africa trying to reconnect with "lost" family members. I could be the lost family and they are the ones trying to reconnect with me. The truth is out there...
+I am Canadian of South Sudanese descent. I went to Canada from Kenya through the Student Refugee Program of World University Service of Canada (WUSC). I am currently in Africa exploring my roots and trying to reconnect with "lost" family members. I could be the lost family and they are the ones trying to reconnect with me. The truth is out there...
 
 My educational background is in Chemical Engineering, both Bachelor's and PhD. Bachelor's degree was completed at the University of Toronto and PhD at the University of Ottawa.
 
