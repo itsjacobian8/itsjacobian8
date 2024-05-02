@@ -4,7 +4,7 @@ I am Canadian of South Sudanese descent. I went to Canada from Kenya through the
 
 My educational background is in Chemical Engineering, both Bachelor's and PhD. Bachelor's degree was completed at the University of Toronto and PhD at the University of Ottawa.
 
-My PhD thesis was on the <em>Impact of Fluids Distribution System on Bubble Column Hydrodynamics.</em> Bubble columns are encountered in energy, biochemical and metallurgical processes where intimate contact between a gas and a liquid is desired. Internals such as gas-liquid distributors provide additional means for enhancing the contact betweeen the phases.
+My PhD thesis was on the <a href="http://dx.doi.org/10.20381/ruor-26644"><em>Impact of Fluids Distribution System on Bubble Column Hydrodynamics.</em></a> Bubble columns are encountered in energy, biochemical and metallurgical processes where intimate contact between a gas and a liquid is desired. Internals such as gas-liquid distributors provide additional means for enhancing the contact betweeen the phases.
 
 <h3>Research Interests</h3>
 
