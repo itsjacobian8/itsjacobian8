@@ -34,6 +34,10 @@ As mentioned, my Ph.D. work combined experiments, theory and computational model
 
 When free, I like to hike, play games and learn new human languages.
 
+<h3>Motto</h3>
+
+If you add 2 and 2 and you get 5, then you're very correct. 
+
 <h3>Contact Info</h3>
 
 I can be reached via e-mail at jacobmach16@gmail.com.
