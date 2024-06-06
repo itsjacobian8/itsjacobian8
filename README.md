@@ -30,7 +30,7 @@ Previous work combined experiments, theory and computational modeling to study t
 
 <h3>Contact Info</h3>
 
-I can be reached via e-mail at jacobmach16@gmail.com.
+I can be reached via e-mail at researchlazy@gmail.com.
 <!---
 jacobmach13/jacobmach13 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
