@@ -1,10 +1,6 @@
 <h3>About Us</h3>
 
-Our leader is Canadian of South Sudanese descent. He went to Canada from Kenya through the Student Refugee Program of World University Service of Canada (WUSC). He is currently in Africa exploring his roots and reconnecting with family.
-
-Our main area of work is in research and development of multiphase reactors. Multiphase reactors are encountered in energy, biochemical and metallurgical processes where intimate contact between a gas and a liquid is desired. Internals such as gas-liquid distributors provide additional means for enhancing the contact betweeen the phases.
-
-<h3>Research Interests</h3>
+Our main area of work is in research and development of multiphase reactors. Multiphase reactors are encountered in energy, biochemical and metallurgical processes where intimate contact between a gas, a liquid and/or a solid is desired. Internals such as gas-liquid distributors provide additional means for enhancing the contact betweeen the phases.
 
 Current research interests include experimental and computational modeling of transport phenomena in multiphase flows and reactors. Although multiphase reactors are relatively easy to construct, modeling of multiphase transport phenomena is complicated by numerous multiphase flow regimes and spatio-temporally multiscale nature of the flows due to their polydisperse and turbulent nature. The ultimate goal is the development of experimental and computational tools for comprehensive understanding and design of efficient multiphase reactors. We are also interested in artificial intelligence and its applications in reduced order modeling and design optimization. 
 
@@ -12,7 +8,7 @@ Current research interests include experimental and computational modeling of tr
 
 Previous work combined experiments, theory and computational modeling to study the impact of gas-liquid distribution system on bubble column hydrodynamics. We showed for the first time that gas assisted hydrodynamic cavitation can be achieved in thick orifices at ambient conditions and developed scaling laws for the device in which it was observed. Although superficial liquid velocities were not sufficient to cause the static pressure at the constriction to drop below vapour pressure, we think the gas flow ensured an interstitial liquid velocity that was enough to drop the pressure below vapor pressure. Before the onset of hydrodynamic cavitation, bubble properties were determined by gas-liquid velocity ratio and distributor energy dissipation rate to the power of 0.6 and -0.4, respectively, in agreement with Kolmogorov-Hinze theory on turbulent bubble breakage in dense gas-liquid dispersions. Geometric scaling of the device was based on matching fractional open area and various ratios of critical dimensions. Dynamic similitude was based on matching bubble coalescence behaviour and three dimensionless groups, including gas-liquid density ratio, liquid Reynolds number and gas Froude number. We also showed that pressure and the gas-liquid distributor influenced the drag experienced by a bubble rising in a contaminated polydisperse swarm. This effect was attributed to changes in bubble size distribution. As pressure increased, progressively smaller bubbles were produced. These smaller bubbles not only induced lower liquid phase disturbances in their wake but potentially damped background turbulence, resulting in reduced drag on the bubble they surround. A novel drag model was thus developed to improve CFD simulation of gas-liquid flows. A gas-liquid distributor submodel consisting of the drag model and bubble size distribution model was used to update an existing compartmental model of an industrial ebullated bed hydroprocessor. 
 
-<h3>Recent Publications</h3>
+<h3>Publications</h3>
 <ol>
  <li>
     Jacob Mach, Adam A. Donaldson, Jan Haelssig, Jason Wiens, John Adjaye and Arturo Macchi. Fluid Dynamics Modeling of a Commercial Ebullated Bed Hydroprocessor. Industrial & Engineering Chemistry Research, 59(42): 19030-19044, 2020. <a href="https://www.doi.org/10.1021/acs.iecr.0c03454">doi:10.1021/acs.iecr.0c03454</a>
@@ -28,7 +24,7 @@ Previous work combined experiments, theory and computational modeling to study t
  </li>
 </ol>
 
-<h3>Contact Info</h3>
+<h3>Contact Us</h3>
 
 We can be reached via e-mail at researchlazy@gmail.com.
 <!---
