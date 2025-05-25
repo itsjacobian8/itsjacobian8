@@ -1,6 +1,6 @@
-<h3>About Us</h3>
+<h3>About Me</h3>
 
-Our main area of work is in research and development of multiphase reactors. Multiphase reactors are encountered in energy, biochemical and metallurgical processes where intimate contact between a gas, a liquid and/or a solid is desired. Internals such as gas-liquid distributors provide additional means for enhancing the contact betweeen the phases.
+My main area of work is in research and development of multiphase reactors. Multiphase reactors are encountered in energy, biochemical and metallurgical processes where intimate contact between a gas, a liquid and/or a solid is desired. Internals such as gas-liquid distributors provide additional means for enhancing the contact betweeen the phases.
 
 Current research interests include experimental and computational modeling of transport phenomena in multiphase flows and reactors. Although multiphase reactors are relatively easy to construct, modeling of multiphase transport phenomena is complicated by numerous multiphase flow regimes and spatio-temporally multiscale nature of the flows due to their polydisperse and turbulent nature. The ultimate goal is the development of experimental and computational tools for comprehensive understanding and design of efficient multiphase reactors. We are also interested in artificial intelligence and its applications in reduced order modeling and design optimization. 
 
@@ -26,7 +26,7 @@ Previous work combined experiments, theory and computational modeling to study t
 
 <h3>Contact Us</h3>
 
-We can be reached via e-mail at jacobmach16@gmail.com.
+I can be reached via e-mail at jacobmach16@gmail.com.
 <!---
 jacobmach13/jacobmach13 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
