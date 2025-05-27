@@ -24,7 +24,7 @@ Previous work combined experiments, theory and computational modeling to study t
  </li>
 </ol>
 
-<h3>Contact Us</h3>
+<h3>Contact Me</h3>
 
 I can be reached via e-mail at jacobmach16@gmail.com.
 <!---
